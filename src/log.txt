@@ -1,6 +1,0 @@
-Program started
-Logger moved successfully
-SensorA: [buffer size = 10]
-SensorA: [size=10, values=42,42,42,42,42,42,42,42,42,42]
-SensorA: [size=10, values=42,42,42,42,42,42,42,42,42,42]
-SensorB: [size=5, values=7,7,7,7,7]
