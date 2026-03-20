@@ -6,3 +6,4 @@ build/
 *.map
 *.log
 .vscode/
+src/log.txt
